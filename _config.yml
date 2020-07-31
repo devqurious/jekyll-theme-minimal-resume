@@ -1,12 +1,12 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: AQuriousMind
+description: Art and Science Experiments for the Qurious Mind
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: AQuriousMind
-user_description: Read stories and re-do the greatest science experiments of all time. 
+user_description: Read stories behind the greatest experiments of all time and re-do them at home. Gain a better understanding how things actually work.
 user_title: Explore the Universe, one experiment at a time
 email: mauriurraco@gmail.com
 # twitter_username: lorem_ipsum
